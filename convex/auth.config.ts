@@ -1,8 +1,8 @@
 export default {
   providers: [
     {
-      domain: "https://climbing-cattle-3.clerk.accounts.dev/",
-      applicationID: "convex",
+      domain: 'https://touched-cobra-36.clerk.accounts.dev/',
+      applicationID: 'convex',
     },
   ],
 };
